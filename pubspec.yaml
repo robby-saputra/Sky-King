@@ -1,26 +1,26 @@
 name: sky_king
 description: "A new Flutter project."
-publish_to: 'none'
+publish_to: 'none' # Menandakan bahwa proyek ini tidak dipublikasikan ke pub.dev
 
-version: 1.0.0+1
+version: 1.0.0+1 # Versi proyek (versi aplikasi + versi build)
 
 environment:
-  sdk: ^3.6.0
+  sdk: ^3.6.0 # Versi SDK Dart yang digunakan
 
 dependencies:
   flutter:
-    sdk: flutter
+    sdk: flutter # Menggunakan SDK Flutter bawaan
 
-  cupertino_icons: ^1.0.8
+  cupertino_icons: ^1.0.8 # Ikon khusus untuk platform iOS
 
-  # Menambahkan dependensi http
+  # Menambahkan dependensi http untuk melakukan HTTP requests
   http: ^0.13.3
 
 dev_dependencies:
   flutter_test:
-    sdk: flutter
+    sdk: flutter # Untuk pengujian unit dan widget
 
-  flutter_lints: ^5.0.0
+  flutter_lints: ^5.0.0 # Menambahkan linting standar Flutter
 
 flutter:
-  uses-material-design: true
+  uses-material-design: true # Mendukung desain material
