@@ -95,7 +95,7 @@ class _WeatherScreenState extends State<WeatherScreen> {
                 });
                 _fetchWeather();
               },
-              child: Text('Cek Cuaca di Jakarta'),
+              child: Text('Cek Cuaca di Jakarta1'),
             ),
           ],
         ),
