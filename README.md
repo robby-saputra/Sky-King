@@ -64,7 +64,7 @@ contoh, panduan pengembangan aplikasi mobile, dan referensi API lengkap.
 
 ## Kontak
 
-Jika Anda memiliki pertanyaan atau saran, silakan hubungi kami melalui email: ghazalimuhammad342@gmail.com
+Jika Anda memiliki pertanyaan atau saran, silakan hubungi kami melalui email: "ghazalimuhammad342@gmail.com"
 
 ---
 
