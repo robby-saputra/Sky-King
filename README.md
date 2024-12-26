@@ -7,7 +7,8 @@ Aplikasi SKy-King
 Aplikasi Pendeteksi Cuaca Setiap Daerah Berdasarkan 
 Gps dan pemilihan lokasi hingga internasional
 
-A few resources to get you started if this is your first Flutter project:
+
+aplikasi yang sangat di rokemendasikan
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
