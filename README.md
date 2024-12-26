@@ -1,10 +1,11 @@
 # sky_king
 
-A new Flutter project.
+Aplikasi SKy-King
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Aplikasi Pendeteksi Cuaca Setiap Daerah Berdasarkan 
+Gps dan pemilihan lokasi hingga internasional
 
 A few resources to get you started if this is your first Flutter project:
 
