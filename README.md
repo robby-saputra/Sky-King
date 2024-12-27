@@ -1,7 +1,7 @@
 # Sky King
 
 Aplikasi **Sky-King** adalah sebuah aplikasi inovatif untuk mendeteksi cuaca di berbagai daerah, baik lokal maupun internasional, berdasarkan data GPS dan pemilihan lokasi manual.
-![Sky-King Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmajalahfranchise.com%2Fcara-memilih-lokasi-usaha-yang-strategis%2F&psig=AOvVaw0U14gHCvr4EGD5dB8CODBv&ust=1735306117298000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjQn5rFxYoDFQAAAAAdAAAAABAE)
+![Sky-King Banner](https://via.placeholder.com/800x400.png?text=Sky+King+App)
 
 ## Fitur Utama
 
