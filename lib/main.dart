@@ -1,12 +1,6 @@
-import 'dart:convert';
-import 'package:flutter/material.dart';
-import 'package:google_fonts/google_fonts.dart';
-import 'package:intl/intl.dart';
-import 'package:intl/date_symbol_data_local.dart';
-import 'package:http/http.dart' as http;
-import 'package:geolocator/geolocator.dart';
-import 'package:geocoding/geocoding.dart';
-import './edit_lokasi_page.dart';
+import 'dart:convert'; // Library untuk konversi data JSON
+import 'package:flutter/material.dart'; // Library utama Flutter
+import 'package:http/http.dart' as http; // Library untuk HTTP request
 
 void main() {
   runApp(const MyApp());
